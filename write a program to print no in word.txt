@@ -1,0 +1,36 @@
+write a program to print no in words upto 10
+
+
+write a program to print week days
+
+
+write a program to print month of a year
+
+
+write a program for calculator or write a program to find out the addition of two numbers if we press 1 subtraction of two nos if we press 2 multiplication of two no if we press 3 
+division if we press 4
+modulus if 5
+average if 6
+otherwise print an eroor message
+
+
+
+write a program to find out the area and circumference of a circle if we press 1,
+find out the swapping of two nos if we press two,
+find out the biggest of two nos if we press 3,
+find out wether a given no is ecven or odd if we press 4,
+find out the average of 3 nos if we press 5,
+find out the biggest of three nos if we press 6,
+find out the smallest of three nos if we press 7,
+find out the area of a triangle if we press 8,
+find out the simple interest if we press 9 otherwise find out the gross salary of an employee which is equals to basic + DA + HRA + PF
+DA= 150% basic
+HRA= 50% basic
+PF=25%basic
+and if this gross salary is greater than 10000 print grade a
+if it is in between 8 to 9000 print grade B,
+if it is in between 7 to 8000 print grade c
+if it is in between 6 to 7000 print grade d
+otheriwsie find out the cube of a gross salary
+
+

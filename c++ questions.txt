@@ -1,0 +1,43 @@
+wite a program to input mars of 3 subject find out the percwntGE if this percebtage is greater than 90 print great A+ if it is in between 80 to 90 print grade A
+if t is in between 70 to 80 print grade B+
+if it is in between 60 to 70 print grade B otherwise print fail
+
+
+
+write a program to find out the bigget of two no concider equal condition also
+
+
+
+write a progr to find out the smallest of two nos
+
+
+write a program to find out the gross salary of an employee which is equals to basic + DA + HRA +PF
+DA=150%basic
+HRA=50%Basic
+pf=25%Basic
+
+
+
+write a program to find out the biggest of three nos
+
+
+write a program to find out the smallest of three nos
+
+
+write a program yo find out the modulus of two no if this modulus is nit equals to 1 then find out the addition of two numbers otherwise find out which no is greater.
+
+
+ 
+write a program to find out the addition of two nos if this addition is equals to 7 then find out the avg of these two nos with another no otherwise swap those nos 
+
+
+
+write a program to find out the addition of two nos if this addition is less than or equals to 7 then find out the biggest of three nos among first teo nos and the addition otherwise find out the area and circumference of a circle considering radius as the addition of two nos now swap tgis ara and circumference now find out the biggest of area and circumference and if this area is greater than 5 then find out the percentagfe of three marks given and print A+ if the percentage is grater than 90 otherwise print fail
+
+
+
+
+
+
+
+
